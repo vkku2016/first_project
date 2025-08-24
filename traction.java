@@ -11,6 +11,7 @@ System.out.println("welcome git rep");
 String s="vishu";
 
 System.out.println("************************************");
+String s1="welcome";
 
 	}
 }
