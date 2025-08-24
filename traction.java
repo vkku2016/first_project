@@ -10,6 +10,7 @@ class A{
 System.out.println("welcome git rep");
 System.out.println("------------------------------");
 String s1="hello";
+String s2 ="welcome";
 
 	}
 }
