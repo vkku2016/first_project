@@ -9,6 +9,7 @@ class A{
 		System.out.println(a+b);
 System.out.println("welcome git rep");
 System.out.println("------------------------------");
+String s1="hello";
 
 	}
 }
